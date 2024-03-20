@@ -1,0 +1,26 @@
+config:
+  url: https://monchovarela.es
+  lang: es
+  charset: UTF-8
+  name: monchovarela
+  dot: .es
+  title: Moncho Varela
+  description: Soy desarrollador web y músico, vivo en La Coruña, el mejor lugar del mundo.
+  keywords: nakome,web,webs,paginas web,coruña,imagen corporativa,edición de video,ux,ui,logotipos,interfaces,arquitectura de la información,a coruña,calidad web,diseño responsive,creatividad
+  author: Moncho Varela
+  robots: index, follow
+  googleSiteVerification: ''
+
+menu:
+  - url: /
+    slug: inicio
+    txt: Inicio
+  - url: /proyectos
+    slug: proyectos
+    txt: Proyectos
+  - url: /recursos
+    slug: recursos
+    txt: Recursos
+  - url: /ideas
+    slug: ideas
+    txt: Ideas

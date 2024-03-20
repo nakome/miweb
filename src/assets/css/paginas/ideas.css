@@ -1,0 +1,60 @@
+body[data-theme=light] {
+  --dark: #08efe2;
+  --light: #ffffff;
+  --medium: #78fff7;
+  --txt: #5d5d5d;
+  --white-op-80: rgb(255 255 255 / 80%)
+}
+
+body[data-theme=dark] {
+  --dark: #08efe2;
+  --light: #253130;
+  --medium: #1e2524;
+  --txt: #f3fffe;
+  --white-op-80: rgb(0 0 0 / 80%)
+}
+
+
+.ideas {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.ideas .card-body {
+  background: var(--light);
+  min-height: 75px;
+}
+
+@media (max-width: 600px) {
+  .ideas .card-body {
+    min-height: 0;
+  }
+}
+
+pre.code {
+  border: 2px solid var(--txt);
+  box-shadow: 3px 3px var(--dark);
+  height: 400px;
+  margin: 0;
+  max-width: calc(100vw - 1.8rem);
+  padding: 5px;
+}
+
+pre.code code {
+  border: 0;
+}
+
+pre::-webkit-scrollbar {
+  background: var(--txt);
+  height: 5px;
+  width: 5px;
+}
+
+pre::-webkit-scrollbar-thumb {
+  background: var(--light);
+}
+
+.toolbar {
+  right: 1rem !important;
+  top: 0.5rem !important;
+}

@@ -1,0 +1,61 @@
+links:
+  - title: Snippets
+    description: "Coleción de trozos de código interesantes."
+    url: "/ideas/snippets"
+    target: _self
+    rel: noopener
+  - title: Codepen
+    description: "Generador de Json."
+    url: "https://codepen.io/nakome/pen/OJjLLxN"
+    target: _blank
+    rel: noopener
+  - title: Codepen
+    description: "Editor html con demostración."
+    url: "https://codepen.io/nakome/pen/JjRoXzO"
+    target: _blank
+    rel: noopener
+  - title: Stackblitz
+    description: "Esta plantilla con Gulp y Nunjucks."
+    url: "https://stackblitz.com/edit/gaiolas?file=src/javascript/index.js"
+    target: _blank
+    rel: noopener
+  - title: Codepen
+    description: "Terminal basado en Console."
+    url: "https://codepen.io/nakome/pen/MWyJmYJ"
+    target: _blank
+    rel: noopener
+  - title: Codesandbox
+    description: "Calendario creado con React y Momment"
+    url: "https://codesandbox.io/s/strange-tharp-omcgv"
+    target: _blank
+    rel: noopener
+  - title: Codepen
+    description: "Creador de Navbar de Bootstrap."
+    url: "https://codepen.io/nakome/pen/qBNeBPE"
+    target: _blank
+    rel: noopener
+  - title: Codesandbox
+    description: "Simple reproductor de audio con React."
+    url: "https://codesandbox.io/s/j1zw502k6v"
+    target: _blank
+    rel: noopener
+  - title: Codepen
+    description: "Creador de formularios."
+    url: "https://codepen.io/nakome/pen/dyNegaO"
+    target: _blank
+    rel: noopener
+  - title: Codepen
+    description: "Extraer colores de una imagen."
+    url: "https://codepen.io/nakome/pen/ExjEqoV"
+    target: _blank
+    rel: noopener
+  - title: Codepen
+    description: "Cargador tipo aeropuerto."
+    url: "https://codepen.io/nakome/pen/PoEPMx"
+    target: _blank
+    rel: noopener
+  - title: Codepen
+    description: "Mi primer editor, SWEeditor."
+    url: "/ideas/editor"
+    target: _blank
+    rel: noopener

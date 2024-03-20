@@ -1,0 +1,50 @@
+body[data-theme=light] {
+    --dark: #0872ef;
+    --light: #ffffff;
+    --medium: #90c2ff;
+    --txt: #5d5d5d;
+    --white-op-80: rgb(255 255 255 / 80%)
+}
+
+body[data-theme=dark] {
+    --dark: #0872ef;
+    --light: #2b2b2b;
+    --medium: #232323;
+    --txt: #959595;
+    --white-op-80: rgb(0 0 0 / 80%)
+}
+
+.boxes a {
+    text-decoration: none;
+}
+.proyecto {
+    width: 100%;
+    margin: 0;
+    position: relative;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.proyecto-img {
+    align-items: center;
+    background: var(--primary);
+    display: flex;
+    justify-content: center;
+    margin: auto auto 0;
+    overflow: hidden;
+    padding: 0;
+}
+
+.proyecto-cap {
+    margin: 0;
+    padding: 15px 10px;
+    color: var(--txt);
+}
+.proyecto-img picture {
+    object-fit: cover;
+    transition: all 0.5s ease;
+    &:is(:hover,:focus) {
+        transform: scale(1.2);
+        transition: all 0.5s ease;
+    }
+}

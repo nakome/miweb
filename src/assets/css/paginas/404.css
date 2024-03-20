@@ -1,0 +1,20 @@
+body[data-theme=light] {
+    --dark: #32ac94;
+    --light: #fdfeff;
+    --medium: #f1f1f1;
+    --txt: #272822;
+    --white-op-80: rgb(255 255 255 / 80%)
+}
+
+body[data-theme=dark] {
+    --dark: #13783f;
+    --light: #1a1a1a;
+    --medium: #353a42;
+    --txt: #fff;
+    --white-op-80: rgb(0 0 0 / 80%)
+}
+
+h1 {
+    font-size: 6.2em;
+    font-weight: bold;
+}

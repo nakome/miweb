@@ -1,0 +1,34 @@
+---
+title: Yummy
+description: Aplicación creada para el control de turnos del centro.
+image: /assets/img/proyectos/yummy.webp
+layout: layouts/default.vto
+slug: proyectos
+---
+
+<style rel="stylesheet">
+    :root{
+        --gutter: 25px;
+    }
+</style>
+
+<section class="boxes">
+    <!-- box-2 -->
+    <article class="box-2">
+        <img src="{{image}}" alt="{{title}}" transform-images="avif webp jpg 600@2"/>
+    </article>
+    <article class="box-2">
+        <h1>{{title}} 😀</h1>
+        <h2>{{description}}</h2>
+
+        <p class="show">Aplicación creada para la gestión de salas de el centro. En la administración tiene los ajustes
+            necesarios para que sea muy fácil de activar/desactivar las salas y cambiar los datos para que el
+            especialista no pierda tiempo.</p>
+
+        <p class="show">Está creada con Php y Sqlite en el backend y usa chromecast para enviar a la 📺</p>
+
+        <div class="info">
+            Si necesitas algo asi, no dudes en contactar conmigo <a href="mailto:{{site.config.email}}">aquí</a>.
+        </div>
+    </article>
+</section>

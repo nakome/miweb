@@ -1,0 +1,29 @@
+---
+title: Proyectos
+description: Algunos de los proyectos que he realizado, unos siguen en linea otros, pues pasaron a mejor vida.
+layout: layouts/default.vto
+slug: proyectos
+---
+
+<section class="boxes" style="--gutter:0.2rem">
+    {{ for link of proyectos.links }}
+        <!-- box-4 -->
+        <article class="box-4">
+            <!-- link -->
+            <a href="{{link.url}}" title="{{link.title}}" target="_blank" rel="noopener">
+                <!-- figure -->
+                <figure class="proyecto">
+                    <!-- image -->
+                    <div class="proyecto-img">
+                        <img src="/assets/{{link.image}}" transform-images="avif webp jpg 300@2" alt="{{link.title}}" />
+                    </div>
+                    <!-- /image -->
+                    <!-- figcaption -->
+                    <figcaption class="proyecto-cap">
+                        <strong>{{link.title}}</strong> - {{link.description}}
+                    </figcaption><!-- /figcaption -->
+                </figure><!-- /figure -->
+            </a><!-- /link -->
+        </article><!-- /box-4 -->
+    {{ /for }}
+</section>

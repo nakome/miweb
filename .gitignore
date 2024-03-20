@@ -1,0 +1,6 @@
+_site
+_bin
+_cache
+
+public/
+deno.lock

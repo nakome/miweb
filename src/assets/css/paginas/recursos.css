@@ -1,0 +1,25 @@
+body[data-theme=light] {
+    --dark: #7f08ef;
+    --light: #ffffff;
+    --medium: #dc90ff;
+    --txt: #5d5d5d;
+    --white-op-80: rgb(255 255 255 / 80%)
+}
+
+body[data-theme=dark] {
+    --dark: #7f08ef;
+    --light: #242027;
+    --medium: #171518;
+    --txt: #959595;
+    --white-op-80: rgb(0 0 0 / 80%)
+}
+
+.recursos {
+    opacity: 0;
+    visibility: hidden;
+}
+@media (max-width: 600px) {
+    .recursos .card-body {
+        min-height: 0;
+    }
+}

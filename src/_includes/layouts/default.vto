@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{site.config.lang}}">
+
+<head>
+
+    <title> {{site.config.title}} | {{title}}</title>
+
+    {{ include "components/meta/default.vto"}}
+    {{ include "components/meta/google.vto"}}
+    {{ include "components/meta/facebook.vto"}}
+    {{ include "components/meta/twitter.vto"}}
+
+    {{ include "components/links.vto"}}
+
+</head>
+
+<body id="top" data-theme="light">
+    <!-- Main -->
+    <main id="app">
+        {{ include "components/header.vto"}}
+        <section class="content" id="view">
+            {{content}}
+        </section><!-- /content -->
+        {{ include "components/footer.vto"}}
+    </main>
+    <!-- /Main -->
+
+    {{ include "components/scripts.vto"}}
+
+</body>
+
+</html>

@@ -1,0 +1,69 @@
+links:
+  - title: Moncho Varela
+    description: "Mi web ahora funciona con Lume, un generador estático de Deno."
+    image: img/proyectos/miweb.png
+    url: "https://lume.land/"
+  - title: Tools
+    description: "Una lista de herramientas para el desarrollo, desde un editor html hasta un extractor de colores de una imagen."
+    image: img/proyectos/tools.png
+    url: "https://snippex.surge.sh"
+  - title: Agasallo
+    description: "Html editor usando Express y React en Deta.space."
+    image: img/proyectos/agasallo.webp
+    url: "https://deta.space/discovery/@monchex/agasallo"
+  - title: AntCMS
+    description: "Alternativa a Barrio CMS sin Markdown ni Shortcodes."
+    image: img/proyectos/antcms.webp
+    url: "https://monchovarela.es/_proyectos/antcms"
+  - title: Filemanager
+    description: "Un gestor de archivos en un solo archivo, para crear carpetas y archivos, editarlos y descomprimir."
+    image: img/proyectos/filemanager.webp
+    url: "https://github.com/nakome/Root-Media-Manager"
+  - title: "Clínica Asubío"
+    description: "Desenvolvemento integral e Voz"
+    image: img/proyectos/clinicaasubio.webp
+    url: "https://clinicaasubio.com"
+  - title: DOC3+1
+    description: "Aplicacion para la creación de trozos de código"
+    image: img/proyectos/docemasuno.png
+    url: "https://deta.space/discovery/@monchex/docemasuno"
+  - title: "Monchex Bot"
+    description: "Bot de Telegram para la ayuda a desarrolladores."
+    image: img/proyectos/monchexbot.png
+    url: "https://t.me/monchex_bot"
+  - title: Alea
+    description: "Centro multidisciplinar ubicado en Pontevedra."
+    image: img/proyectos/alea.webp
+    url: "https://aleaintervencion.com"
+  - title: Yummy
+    description: "Aplicación creada para el control de turnos del centro."
+    image: img/proyectos/yummy.webp
+    url: "/proyectos/yummy"
+  - title: "Barrio CMS"
+    description: "Gestor de contenidos sin necesidad de base de datos."
+    image: img/proyectos/cmsbarrio.webp
+    url: "https://monchovarela.es/_proyectos/cmsbarrio"
+  - title: Markdroids
+    description: "Este es un editor de Markdown que hice en la web de glich.com."
+    image: img/proyectos/markdroids-deta.png
+    url: "https://deta.space/discovery/@monchex/markdroids"
+  - title: Beatrizlogopeda
+    description: "Esta es la web de una amiga Logopeda muy buena experta en rehabilitación de voz."
+    image: img/proyectos/beatrizlogopeda.webp
+    url: "https://beatrizlogopeda.com"
+  - title: DavidKarro
+    description: "Esta es la web de un buen amigo que crea una música incleible."
+    image: img/proyectos/davidkarro.webp
+    url: "https://davidkarro.es/"
+  - title: Zō
+    description: "Centro de creación y formación de circo/artes vivas situado en La Coruña."
+    image: img/proyectos/zo.webp
+    url: "https://zocirco.es/"
+  - title: "Colectivo T.o.X.o"
+    description: "Web de el colectivo en el que participe creando la música."
+    image: img/proyectos/colectoxo.webp
+    url: "https://zocirco.es/toxo"
+  - title: Netgaliciaradio
+    description: "Esta es la web de una radio online y ofrece durante las 24 horas."
+    image: img/proyectos/netgaliciaradio.webp
+    url: "https://netgaliciaradio.es"

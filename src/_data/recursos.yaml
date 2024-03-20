@@ -1,0 +1,82 @@
+links:
+  - title: Pebblely
+    description: "Crea instantáneas dignas de Instagram de cualquier producto con el clic de un botón!."
+    url: "https://app.pebblely.com/"
+  - title: Vicuna
+    description: "Un chatbot de código abierto con 90% de calidad ChatGPT."
+    url: "https://vicuna.lmsys.org/"
+  - title: Lume
+    description: "Un generador de sitios estaticos para Deno."
+    url: "https://lume.land/"
+  - title: Playground
+    description: "Terminales para pruebas de código."
+    url: "/recursos/playground"
+  - title: Jitsi
+    description: "Software de videollamadas y conferencias en línea de código abierto."
+    url: "https://meet.jit.si/"
+  - title: Unlayer
+    description: "Plantillas de email gratuitas."
+    url: "https://unlayer.com/templates"
+  - title: "Click App"
+    description: "Le permite diseñar y crear interfaces de usuario complejas visualmente sobre datos reales."
+    url: "https://click-app.dev/"
+  - title: ChatGPT
+    description: "ChatGPT es capaz de responder a preguntas, mantener conversaciones y realizar tareas de procesamiento de lenguaje natural a través de una interfaz de chat en línea."
+    url: "https://chat.openai.com/chat"
+  - title: Vercel
+    description: "Plataforma de alojamiento y despliegue de aplicaciones web que proporciona una forma fácil y rápida de lanzar proyectos en línea."
+    url: "https://glitch.com"
+  - title: Glitch
+    description: "Plataforma de desarrollo web que permite a los usuarios crear y alojar aplicaciones web, así como colaborar en proyectos con otros desarrolladores."
+    url: "https://glitch.com"
+  - title: "Mindful Harmony"
+    description: "Crear armonias de acordes complejas."
+    url: "https://www.mindfulharmony.app/write"
+  - title: "Free illustrations"
+    description: "Ilustraciones gratuitas para uso personal o comercial."
+    url: "https://freeillustrations.xyz/"
+  - title: "Product Hunt"
+    description: "Repositorio de aplicaciones web."
+    url: "https://www.producthunt.com/"
+  - title: Pexels
+    description: "Videos 4k gratuitos."
+    url: "https://www.pexels.com/"
+  - title: Scribe
+    description: "Convierte cualquier proceso en un paso a paso al instante."
+    url: " https://scribehow.com/"
+  - title: Mazwai
+    description: "Otra web con videos gratuitos."
+    url: "https://mazwai.com/"
+  - title: Devices.css
+    description: "Dispositivos modernos creados en CSS puro."
+    url: "https://devicescss.xyz/"
+  - title: Formspree
+    description: "Envio de formularios usando solo Html."
+    url: "https://formspree.io/"
+  - title: "Apuntes Majo"
+    description: "Apuntes a mano sobre lenguajes y temas de programación.."
+    url: "https://losapuntesdemajo.vercel.app/"
+  - title: Surge
+    description: "Publicación web simple y de un solo comando."
+    url: "https://surge.sh/"
+  - title: Notion
+    description: "Conecta tus equipos, proyectos y documentos."
+    url: "https://notion.so/"
+  - title: Figma
+    description: "Herramienta de diseño de interfaces colaborativas."
+    url: "https://figma.com/"
+  - title: Webtoolsweekly
+    description: "Todas las semanas un newsletter."
+    url: "https://webtoolsweekly.com/archive"
+  - title: "Screen Guru"
+    description: "Creador de screenshots de páginas."
+    url: "https://screen.guru/"
+  - title: ShareX
+    description: "Capturador de pantalla para Pc."
+    url: "https://getsharex.com/"
+  - title: Ninite
+    description: "Crea un conjunto de programas para instalar en un click."
+    url: "https://ninite.com/"
+  - title: "have i been pwned?"
+    description: "Verifica si tu email o teléfono está en una violación de datos."
+    url: "https://haveibeenpwned.com/"

@@ -1,0 +1,32 @@
+<!-- header -->
+<header class="header">
+    <!-- logo -->
+    <div class="logo">
+        <a href="/">
+            <img src="/assets/img/logo-sm.png" alt="Dibujo de mi mismo" style="border-radius:100%;margin-right:5px" />
+            monchovarela<span>.es</span>
+        </a>
+    </div><!-- /logo -->
+    <!-- btn-menu -->
+    <a href="#open-menu" class="btn-menu" aria-label="boton menu abrir">
+        <span>&nbsp;</span>
+        <span>&nbsp;</span>
+    </a><!-- /btn-menu -->
+    <!-- nav -->
+    <nav class="navigation">
+        <!-- btn-close -->
+        <a href="#close-menu" class="btn-menu btn-close" aria-label="boton menu cerrar">
+            <span></span>
+            <span></span>
+        </a><!-- /btn-close -->
+
+        <!-- links -->
+        {{ for link of site.menu}}
+            <a href="{{ link.url }}" {{ if slug == link.slug }}class="active"{{ /if }}>
+                {{link.txt}}
+            </a>
+        {{ /for }}
+        <!-- /links -->
+
+    </nav><!-- /nav -->
+</header><!-- content -->
