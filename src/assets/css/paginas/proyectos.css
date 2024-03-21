@@ -1,8 +1,8 @@
 body[data-theme=light] {
-    --dark: #0872ef;
-    --light: #ffffff;
-    --medium: #90c2ff;
-    --txt: #5d5d5d;
+    --dark: #005dff;
+    --light: #fff;
+    --medium: #7eadff;
+    --txt: #2b2b2b;
     --white-op-80: rgb(255 255 255 / 80%)
 }
 

@@ -1,16 +1,16 @@
 body[data-theme=light] {
-  --dark: #08efe2;
-  --light: #ffffff;
-  --medium: #78fff7;
-  --txt: #5d5d5d;
-  --white-op-80: rgb(255 255 255 / 80%)
+  --dark: #0908ef;
+  --light: #fff;
+  --medium: #d0d0ff;
+  --txt: #181818;
+  --white-op-80: hsl(0deg 0% 100% / 80%);
 }
 
 body[data-theme=dark] {
-  --dark: #08efe2;
+  --dark: #5554ff;
   --light: #253130;
-  --medium: #1e2524;
-  --txt: #f3fffe;
+  --medium: #050837;
+  --txt: #c7c7ff;
   --white-op-80: rgb(0 0 0 / 80%)
 }
 

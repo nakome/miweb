@@ -1,0 +1,35 @@
+h1: Hola! 😀
+h2: Mi nombre es Moncho Varela
+p1: |
+  Soy desarrollador web y músico, vivo en La Coruña, el mejor lugar
+  del mundo. Me encanta crear todo tipo de ideas desde webs, webapps
+  (PWA, SPA etc) con Gulp, React, Svelte y otros Frameworks de
+  Javascript y también videos y música, también hago cosas en
+  Python para ejecutar en la consola y también algún que otro
+  programa en versión Desktop.
+p1_link1: https://github.com/nakome
+p1_link1_title: Ir a Github
+p1_link1_txt: Mi cuenta en Github 😎
+
+p2: Esta web estaba montada con
+p2_link1: https://monchovarela.es/_proyectos/antcms
+p2_link1_title: Link al proyecto de AntCMS
+p2_link1_txt: AntCMS
+
+p3: un CMS Flat file que he creado yo mismo. Ahora funciona con
+p3_link1: https://lume.land/
+p3_link1_title: Ir a Lume
+p3_link1_txt: Lume
+
+p4: un generador estático de
+p4_link1: https://deno.com/
+p4_link1_title: Ir a Deno
+p4_link1_txt: Deno
+
+p5: |
+  También la hice con Gulp, Nunjucks, Sass, Javascript, Html5, Css3
+  y otras potentes herramientas que agilizan el diseño gráfico
+  interactivo.
+p5_link1: https://github.com/nakome/miweb
+p5_link1_title: Ir a Github
+p5_link1_txt: Ver proyecto
